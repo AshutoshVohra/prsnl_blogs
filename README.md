@@ -30,7 +30,7 @@
             <li class="green_imp">call of duty
         </ol>
         <p class="blue_imp">these are some of the games from my<em> collection</em>.well i have many games alot more than 100s.</p>
-        <h1 id="bcaoh">Some information about <em id="bca">bachelor of computer application</em>.</h1>
+        <h1 id="bcaoh">Some. information about <em id="bca">bachelor of computer application</em>.</h1>
 <p class="blue_imp">Bachelor in Computer Application (BCA) is an undergraduate degree course in computer applications. ... <strong>Bachelor in Computer Application (BCA) is one of the popular courses among the students who want to make their career in the IT (Information Technology) field.</strong></p>        
     </body>
     </html>
